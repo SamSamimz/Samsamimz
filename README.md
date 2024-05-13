@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sam-samim-940214270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam-samim-940214270" height="30" width="40" /></a>
-<a href="https://fb.com/samimislam.samim.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samimislam.samim.980" height="30" width="40" /></a>
-<a href="https://instagram.com/sam.samim.595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam.samim.595" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samsamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samsamim" height="30" width="40" /></a>
+<a href="https://fb.com/samsamimf9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samsamimf9" height="30" width="40" /></a>
+<a href="https://instagram.com/sam.samim.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam.samim.56" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
