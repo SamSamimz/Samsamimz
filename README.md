@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsamimz&label=Profile%20views&color=0e75b6&style=flat" alt="samsamimz" /> </p>
 
-- 💬 Ask me about **Laravel, Vue, && many more**
+- 💬 Ask me about **Laravel, Vue, && many more.**
 
 - 📫 How to reach me **samsamim595@gmail.com**
 
