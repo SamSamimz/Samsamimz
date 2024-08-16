@@ -1,5 +1,5 @@
-<h3>Hi there 👋, I'm  Sam Samim</h1>
-<h5>A passionate fullstack web developer👌</h3>
+<h3>Hi there 👋, I'm Sam Samim</h3>
+<h5>I’m Sam Samim, a dedicated Full-Stack Developer. I specialize in utilizing cutting-edge web technologies to create dynamic and efficient web applications. With expertise in both front-end and back-end development, I craft solutions that are both innovative and user-centric.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsamimz&label=Profile%20views&color=0e75b6&style=flat" alt="samsamimz" /> </p>
 
